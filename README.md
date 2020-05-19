@@ -21,4 +21,9 @@ Kontagion focuses on the role of Socrates, a bacteriologist shrunk down into a p
 # Project 4
 ![Imgur](https://i.imgur.com/X7na80m.png)
 
-Easily the most interesting project, Goober Eats tackles a commonly asked Computer Science problem. What is the route with the least distance given a set of points? Known as the traveling salesman problem, there have been multiple papers written on the subject. In my implementation, the A* algorithm finds the most efficient route between two points while simulated annealing finds a relative minimum for the most efficient route from a set of points.
+Easily the most interesting project, Goober Eats tackles a commonly asked Computer Science problem. What is the route with the least distance given a set of points? Known as the traveling salesman problem, there have been multiple papers written on the subject. In my implementation, the A* algorithm finds the most efficient route between two points while simulated annealing finds a relative minimum for the most efficient route from a set of points. Through tests with Google Maps, my results always mirrored the expected distance +/- 5%, showing that these two sets of algorithms fit. 
+
+During my research into these algorithms, the following resources were helpful:
+https://www.youtube.com/watch?v=-L-WgKMFuhE - Thorough explanation and visualization of A*
+https://www.youtube.com/watch?v=SC5CX8drAtU - Visualize TSP and the effectiveness of simulated annealing
+https://pdfs.semanticscholar.org/6178/2873250a6096c098729ed3bda2a5e1a3a31a.pdf - Dense read, but entirely worth it for understanding the hyperparameters of simulated annealing and optimizing your set up
