@@ -16,7 +16,7 @@ Data structures and algorithms course at UCLA using C++. Several of these projec
 # Project 3
 ![Imgur](https://i.imgur.com/ov4VDne.png)
 
-Kontagion focuses on the role of Socrates, a bacteriologist shrunk down into a petri dish to fight off swarms of bacteria. The project focuses on implementing polymorphism to derive each of the game's characters, enemies, and sprites.
+Kontagion focuses on the role of Socrates, a bacteriologist shrunk down into a petri dish to fight off swarms of bacteria. (Sounds unbelievable but this was our actual project) The project focuses on implementing polymorphism to derive each of the game's characters, enemies, and sprites.
 
 # Project 4
 ![Imgur](https://i.imgur.com/X7na80m.png)
