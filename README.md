@@ -25,5 +25,5 @@ Easily the most interesting project, Goober Eats tackles a commonly asked Comput
 
 **During my research into these algorithms, the following resources were helpful:** <br>
 https://www.youtube.com/watch?v=-L-WgKMFuhE - Thorough explanation and visualization of A* <br>
-https://www.youtube.com/watch?v=SC5CX8drAtU - Visualize TSP and the effectiveness of simulated annealing <br>
-https://pdfs.semanticscholar.org/6178/2873250a6096c098729ed3bda2a5e1a3a31a.pdf - Dense read, but entirely worth it for understanding the hyperparameters of simulated annealing and optimizing your set up
+https://www.youtube.com/watch?v=SC5CX8drAtU - Visualization of TSP and the effectiveness of simulated annealing <br>
+https://pdfs.semanticscholar.org/6178/2873250a6096c098729ed3bda2a5e1a3a31a.pdf - Dense read of temperature in simulated annealing, but entirely worth it for understanding the hyperparameters of simulated annealing and optimizing your set up
