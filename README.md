@@ -1,11 +1,6 @@
 # Winter-CS32-2020
 Data structures and algorithms course at UCLA using C++. Several of these projects have frameworks created by David A. Smallberg and Carey Nachenberg, the CS32 professors at UCLA for this quarter, while the implementations were designed by students. In comparison to the previous course, CS31, the projects offered in this course offer much more creative flexibility in coding style and structure. This repository features the two most important projects in the class.
 
-
-
-
-**Do not copy the code in these projects directly. As the CS professors change project specifications each quarter, doing so will result in an academic violation and likely a poor grade. This repository is here for my personal reference and to showcase my development in programming over time.**
-
 # Score Distribution
 
 | Project  | Score |
